@@ -12,3 +12,6 @@ With this tool, users can upload an image, specify pixelation settings using a r
 - Run >> `java -jar target/dependency/webapp-runner.jar target/*.war`
 - Go to http://localhost:8080/
 - Enjoy
+
+![Prep.png](src/main/resources/Prep.png)
+![Post.png](src/main/resources/Post.png)
